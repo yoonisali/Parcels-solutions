@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Parcels // Change project name!
+namespace ParcelSolution.Program
 {
   class Program
   {
